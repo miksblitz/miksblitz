@@ -1,5 +1,9 @@
 # Hi there! 👋
 
+<div align="right">
+  <img src="https://media.giphy.com/media/3o7aD2saQqnsn6VKf6/giphy.gif" width="200" alt="Charmander"/>
+</div>
+
 Welcome to my GitHub profile!
 
 ## 💻 Languages
@@ -34,6 +38,6 @@ Welcome to my GitHub profile!
 
 ## 🔗 Social Links
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/aboysters/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aboysters/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikel-aboyme-ab3069283/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
