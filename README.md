@@ -1,10 +1,3 @@
-# Hi there! 👋
-
-<div align="right">
-  <img src="https://media.giphy.com/media/3o7aD2saQqnsn6VKf6/giphy.gif" width="200" alt="Charmander"/>
-</div>
-
-Welcome to my GitHub profile!
 
 ## 💻 Languages
 
