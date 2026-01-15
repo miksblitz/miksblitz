@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/showdown/4.gif" width="200" alt="Charmander"/>
+  <img src="https://c.tenor.com/16189806743405656732/tenor.gif" width="200" alt="Charmander"/>
 </div>
 
 Welcome to my GitHub profile!
